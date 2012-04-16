@@ -337,6 +337,5 @@ if ($user[1] >= admin_mod($ModName) && admin_mod($ModName) > -1) {
     echo "<div style=\"text-align: center;\"><br />" . _ZONEADMIN . "<br /><br />[ <a href=\"javascript:history.back()\"><b>" . _BACK . "</b></a> ]<br /><br /></div>";
 } 
 
-closetable();
 
 ?>
